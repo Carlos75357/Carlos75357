@@ -67,7 +67,7 @@ Soy un programador en desarrollo con experiencia en múltiples tecnologías back
 
 ## 📊 Estadísticas de GitHub
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlos75357&show_icons=true&locale=en&layout=compact&count_private=true&include_orgs=true&token=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" alt="Top Languages" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlos75357&show_icons=true&locale=en&layout=compact&count_private=true&include_orgs=true" alt="Top Languages" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlos75357&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 
