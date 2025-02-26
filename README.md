@@ -58,7 +58,7 @@ Soy un programador en desarrollo con experiencia en múltiples tecnologías back
   <a href="https://linkedin.com/in/carlosperezalzina" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/c/carlosp75" target="blank">
+  <a href="https://www.youtube.com/@carlosp7546" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
   </a>
 </p>
